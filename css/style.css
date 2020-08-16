@@ -1,6 +1,8 @@
 body {
 	background-image:url('../img/bg.jpg');
-	overflow: scroll;
+	overflow: scroll;	
+	background-size:cover;
+	background-position: center center;
 }
 
 .container {
